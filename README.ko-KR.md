@@ -50,7 +50,7 @@ _다른 언어로 보실 수 있습니다:_
   * `B` [Fibonacci Number](src/algorithms/math/fibonacci)
   * `B` [Primality Test](src/algorithms/math/primality-test) (시험 분할 방법)
   * `B` [Euclidean Algorithm](src/algorithms/math/euclidean-algorithm) - 최대 공약수(GCD) 계산
-  * `B` [Least Common Multiple](src/algorithms/math/least-common-multiple) (LCM)
+  * `B` [Least Common Multiple](src/algorithms/math/least-common-multiple) - 최소 공배수(LCM) 계산
   * `A` [Integer Partition](src/algorithms/math/integer-partition)
   * `B` [Sieve of Eratosthenes](src/algorithms/math/sieve-of-eratosthenes) - 주어진 한도까지 모든 소수를 찾는 것
   * `B` [Is Power of Two](src/algorithms/math/is-power-of-two) - 수치가 2의 거듭 제곱인지 (순진 및 비트 알고리즘)
